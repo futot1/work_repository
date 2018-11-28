@@ -11,8 +11,8 @@ import argparse
 
 PURCHASED_LIST = 'purchased_titles.txt'
 EIT_SEARCH = 'http://eit.ebscohost.com/Services/SearchService.asmx/Search'
-PROFILE = 'futoshi.eit.eit'
-PASSWORD = 'ebs102'
+PROFILE = '********'
+PASSWORD = '********'
 
 DB1 = 'edsebk'
 DATA_LIST = ( ( 'btl', 'bkinfo/btl' ), ( 'sertl', 'bkinfo/sertl' ), ( 'pubp', 'pubinfo/pub' ), ( 'publ', 'pubinfo/place' ), ( 'vid', 'pubinfo/vid' ) )
